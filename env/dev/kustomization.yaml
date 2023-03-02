@@ -6,4 +6,4 @@ resources:
 
 images:
 - name: ghcr.io/dhpup/demo-app
-  newTag: 4fdd3d5b2acb7eeb8b395b9c7f52f81e56af9ee6
+  newTag: 66f3d66818b0ad420ce135ce511f718619c686d5
