@@ -1,6 +1,6 @@
 # Demo Appication Deployment
 
-The repository contains Kubernetes deployment manifests that can be used to deploy the [demo app](https://github.com/akuity-adv-gitops-workshop/demo-app).
+The repository contains Kubernetes deployment manifests that can be used to deploy the [demo app](https://github.com/dhpup/demo-app).
 
 The repository uses [Kustomize](https://kustomize.io) to define the manifests and contains the following directories:
 
