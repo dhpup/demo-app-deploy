@@ -3,3 +3,7 @@ kind: Kustomization
 
 resources:
 - ../../base
+
+images:
+- name: ghcr.io/dhpup/demo-app
+  newTag: f6e609bf1a0d958af15ea3bd3437df1b93ac6eb8
